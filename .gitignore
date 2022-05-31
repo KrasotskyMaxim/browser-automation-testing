@@ -1,0 +1,10 @@
+venv/
+*driver/
+
+cookies
+
+activate-venv.bat
+
+__pycache__/
+
+data*
